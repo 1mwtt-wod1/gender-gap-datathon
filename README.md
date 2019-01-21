@@ -206,4 +206,4 @@ Credit: This guide is based on the Summer Of Code Hackathon Guide.
 - [ ] post project brief to https://1millionwomentotech.com/groups/diy/forum/topic/datathon-project-briefs/ if you wish to lead, or read the projects if you wish to join a team
 - [ ] join Week 2 Mission Update on Fri Jan 25, 2019 at 10am Pacific Time](https://www.youtube.com/watch?v=nWWhnQar0H8) to present or listen to project briefs
 - [ ] form teams
-- [ ] get data from 1mwtt GitHub Classroom
+- [ ] get data from 1mwtt GitHub Classroom https://classroom.github.com/g/FoBcqQwK
